@@ -1,0 +1,10 @@
+.box{
+    width: 50%;
+    border: solid 1px black;
+}
+.img{
+    width: 15vw;
+}
+.emailfs{
+    font-size: 1.5vw;
+}
